@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Scott and I am new to Git.
